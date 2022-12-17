@@ -1,5 +1,6 @@
 {
   "name": "hardhat-nft-fcc",
+  "private":"true",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers",
     "@nomiclabs/hardhat-etherscan": "^3.0.3",
